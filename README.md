@@ -34,6 +34,7 @@ flowchart LR
   F --> D
   F --> A
 ```
+![ResumePilot System Architecture](https://github.com/Srijita33/resumepilot/blob/main/ResumePilot%20System%20Architecture%20Infographic.png)
 
 ## Tech stack
 React, Vite, Tailwind CSS 3 · Python, FastAPI, Pydantic, pypdf · `google-genai` SDK · Gemma 4 (`gemma-4-26b-a4b-it`)
