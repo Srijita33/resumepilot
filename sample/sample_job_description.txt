@@ -1,0 +1,24 @@
+Machine Learning Intern — Healthcare AI Startup (Bengaluru / Hybrid)
+
+About the role
+We are building document-intelligence tools for hospitals. You will help prototype retrieval-augmented generation (RAG) features that answer clinicians' questions from medical documents.
+
+Responsibilities
+- Build and evaluate RAG pipelines using vector databases and embeddings
+- Process and parse PDFs and unstructured medical documents
+- Develop REST APIs with FastAPI or Flask
+- Write clean, tested Python code and collaborate through Git
+- Present experiment results to the team
+
+Required skills
+- Python, REST APIs, Git
+- Experience with LLMs or NLP projects
+- Familiarity with vector databases (FAISS, Chroma, Pinecone) and document processing
+
+Preferred
+- Docker, cloud basics (AWS/GCP), MLOps exposure
+- Experience with evaluation of LLM outputs
+- Prior healthcare or regulated-domain project
+
+Qualifications
+Pursuing a B.E./B.Tech in CS or related field. 0-1 years of experience; projects count.

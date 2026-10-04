@@ -1,0 +1,25 @@
+ARJUN MEHTA
+arjun.mehta@example.com | github.com/arjun-example | Bengaluru, India
+
+EDUCATION
+B.E. Computer Science, Example Institute of Technology, 2022 - 2026 (expected), CGPA 8.4
+
+SKILLS
+Python, JavaScript, React, FastAPI, SQL, Git, Pandas, scikit-learn, HTML/CSS
+
+EXPERIENCE
+Web Development Intern, Brightpath Labs (Jun 2025 - Aug 2025)
+- Built dashboard pages in React for an internal analytics tool
+- Wrote REST endpoints in FastAPI to serve report data
+- Fixed UI bugs and reviewed pull requests with teammates
+
+PROJECTS
+Campus Event Finder - React and FastAPI web app listing college events with search and filters
+MedTech RAG Assistant - Python app that answers questions over uploaded PDFs using embeddings and a FAISS vector index
+Expense Tracker - Streamlit app with SQLite storage and monthly charts
+
+CERTIFICATIONS
+Machine Learning Specialization (Coursera)
+
+ACHIEVEMENTS
+Finalist, college hackathon 2025
